@@ -1,11 +1,38 @@
 ═══════════════════════════════════════════
 
-Sat Sep 15 2018 10:09:24 GMT-0500 (Central Daylight Time)
-Command: Spotify a Song
-Argument: smells like teen spirit
+Sat Sep 15 2018 12:35:49 GMT-0500 (Central Daylight Time)
+Command: Fetch Movie Info
+Argument: saving private ryan
 ───────────────────────────────────────────
-[32mSONG:   "Smells Like Teen Spirit"[39m
+[33mTITLE:           Saving Private Ryan[39m
+[33m[39m[33mYEAR:            1998[39m
+[33m[39m[33mIMDB Rating:     8.6/10[39m
+[33m[39m[33mRotten Tomatoes: 93%[39m
+[33m[39m[33mCountry:         USA[39m
+[33m[39m[33mLanguage:        English, French, German, Czech[39m
+[33m[39m[33mPlot:            Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.[39m
+[33m[39m[33mActors:          Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper[39m
+[33m[39m
+───────────────────────────────────────────
+═══════════════════════════════════════════
+
+Sat Sep 15 2018 12:36:43 GMT-0500 (Central Daylight Time)
+Command: Spotify a Song
+Argument: lithium
+───────────────────────────────────────────
+[32mSONG:   "Lithium"[39m
 [32m[39m[32mARTIST: Nirvana[39m
 [32m[39m[32mALBUM:  Nevermind (Remastered)[39m
-[32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/5ghIJDpPoe3CfHMGu71E6T[39m
+[32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/2YodwKJnbPyNKe8XXSE9V7[39m
+[32m[39m───────────────────────────────────────────
+═══════════════════════════════════════════
+
+Sat Sep 15 2018 12:36:54 GMT-0500 (Central Daylight Time)
+Command: Spotify a Song
+Argument: first date
+───────────────────────────────────────────
+[32mSONG:   "First Date"[39m
+[32m[39m[32mARTIST: blink-182[39m
+[32m[39m[32mALBUM:  Take Off Your Pants And Jacket[39m
+[32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/1fJFuvU2ldmeAm5nFIHcPP[39m
 [32m[39m───────────────────────────────────────────
