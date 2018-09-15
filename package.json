@@ -1,0 +1,30 @@
+{
+  "name": "liri-node-app",
+  "version": "0.0.1",
+  "description": "A command line assistant",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordancoon/liri-node-app.git"
+  },
+  "author": "Jordan Coon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordancoon/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Jordancoon/liri-node-app#readme",
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dotenv": "^6.0.0",
+    "first-run": "^1.2.0",
+    "inquirer": "^6.2.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
+}
