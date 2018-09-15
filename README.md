@@ -1,12 +1,14 @@
 # liri-node-app
 
 
-Introducing Liri
+Introducing Liri:
+
 Why speak to a "smart" device, when you can whip open a terminal, navigate to the appropriate directory, make sure node is running and type in the name of an application.
 
 
 
 How to use Liri:
+
 1.From within the liri directory, type npm install to make sure you have all the necessary packages. (See below for required packages.)
 2.Type node liri.
 3.Make a selection from the menu.
