@@ -28,7 +28,7 @@ Running npm install will take care of the necessary packages, but for reference'
 
 ---
 
-Screen Shots:
+Screenshot:
 
 ![alt text](images/screen1.png "Description goes here")
 
