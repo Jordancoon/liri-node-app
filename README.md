@@ -3,7 +3,7 @@
 
 Introducing Liri:
 
-Why speak to a "smart" device, when you can whip open a terminal, navigate to the appropriate directory, make sure node is running and type in the name of an application.
+Why speak to a "smart" device, when you can whip open a terminal, navigate to the appropriate directory, make sure node is running and type in the name of an application. Because more work = fun!
 
 ---
 
