@@ -30,6 +30,8 @@ Running npm install will take care of the necessary packages, but for reference'
 
 Screen Shots:
 
-![screenshot](https://Jordancoon.github.io/liri-node-app/screen1.png)
+![screenshot](https://Jordancoon.github.io/liri-node-app/images/screen1.png)
 
-![screenshot](https://Jordancoon.github.io/liri-node-app/screen2.png)
+
+
+
