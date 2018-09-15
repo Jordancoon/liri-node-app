@@ -30,7 +30,7 @@ Running npm install will take care of the necessary packages, but for reference'
 
 Screen Shots:
 
-![screenshot](https://Jordancoon.github.io/liri-node-app/images/screen1.png)
+![alt text](images/screen1.png "Description goes here")
 
 
 
